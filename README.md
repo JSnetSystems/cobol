@@ -1,11 +1,5 @@
 # cobol
-## bash
-ls<br>
-- list all folders and files <br>
-cd (directory name)<br>
-- change directory <br>
-mkdir (directory name)<br>
-- create folder
+Cobol related
 
 ## git
 git status<br>
