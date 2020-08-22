@@ -2,4 +2,4 @@
 Cobol related
 
 ## Content 
-* [Zopen](https://github.com/JSnetSystems/cobol/tree/master/zopeneditor-sample)
+* [Zopen Edition Samples for learning](https://github.com/JSnetSystems/cobol/tree/master/zopeneditor-sample)
